@@ -10,5 +10,5 @@ HTML,CSS,javaScript
 ### Web_Design 
 
 1. 반응형
-<img src="https://https://raw.githubusercontent.com/writingR/HTMxCSSxJavaScript/master/web_01/web_01.png">
+<img src="https://raw.githubusercontent.com/writingR/HTMxCSSxJavaScript/master/web_01/web_01.png">
 
